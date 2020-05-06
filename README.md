@@ -41,3 +41,7 @@ lidar2dems was created by Applied GeoSolutions, LLC and the University of New Ha
 	OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 	OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+####Prerequisite (added by @heromiya)
+
+* PDAL == 1.5.0 (latest version supporting XML pipelines)
+
